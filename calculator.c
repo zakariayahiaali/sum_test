@@ -6,6 +6,9 @@ int main() {
     int number2=7;
     int sum=0;
 
+
+
+
      // calculate the sum
     sum = number1 + number2;      
     
